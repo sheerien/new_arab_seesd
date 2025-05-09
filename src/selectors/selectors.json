@@ -1,0 +1,8 @@
+{
+    "selectors": {
+        "eps_list": "div.ContainerEpisodesList",
+        "watch_buttons": "div.WatchButtons > a",
+        "referer": "https://m15.asd.rest/",
+        "iframe": "iframe"
+    }
+}
